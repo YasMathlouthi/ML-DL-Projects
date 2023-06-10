@@ -10,4 +10,4 @@ OpenCV library
 TensorFlow or PyTorch library
 Numpy library
 Matplotlib library
-Dataset of labeled traffic sign images (e.g., German Traffic Sign Recognition Benchmark)
+Dataset of labeled traffic sign images (German Traffic Sign Recognition Benchmark)
